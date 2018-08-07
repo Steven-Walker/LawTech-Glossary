@@ -71,6 +71,8 @@ An introduction to terminology in lawtech. May include a few useful definitions,
 
 **KPI** See key performance indicator.
 
+**Lean Six Sigma for legal**  A methodology for improving legal processes by removing waste.  Unfortunately for lawyers, there is frequently very little left afterwards.
+
 **Legal Tech** Term used by suppliers of SharePoint resprays to law firms, who haven’t read the memo about “LawTech”.
 
 **Machine Learning** A system where a computer is trained to do something based on example data (hence the “learning”). The term is often used alongside natural language processing in the context of lawtech.  Machine learning can be supervised (where the training data is classified in advance by a human) or unsupervised (where the system infers information about the data from the data itself). Machine learning is a type of AI, but unlike the term “AI” marks the speaker out as knowing what they are talking about.
